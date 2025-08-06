@@ -2,7 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.idea/
+data/
+attribute/
+logs/
+checkpoints/
+info-files/
 # C extensions
 *.so
 
